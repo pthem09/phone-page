@@ -1,9 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2024-03-23T19:32:38.148Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" version="24.1.0" etag="LxXd8kTC6drp9h9X0EW9" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-23T19:45:27.237Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="07DuxZviHy8LIgd4vlmk" version="24.1.0" type="github">
   <diagram name="Page-1" id="dX_awtCxjfuAfy3DdkAb">
-    <mxGraphModel>
+    <mxGraphModel dx="1379" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="LIomclLp-HoN8wm7b3Z_-1" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;" vertex="1" parent="1">
+          <mxGeometry width="850" height="1100" as="geometry" />
+        </mxCell>
+        <mxCell id="LIomclLp-HoN8wm7b3Z_-2" value="Great Phones" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;whiteSpace=wrap;" vertex="1" parent="LIomclLp-HoN8wm7b3Z_-1">
+          <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="LIomclLp-HoN8wm7b3Z_-3" value="https://pthem09.github.io/phone-page/" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="LIomclLp-HoN8wm7b3Z_-1">
+          <mxGeometry x="130" y="60" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LIomclLp-HoN8wm7b3Z_-4" value="&lt;i&gt;Logo&lt;/i&gt;" style="html=1;shadow=0;dashed=0;fillColor=#343A40;strokeColor=none;fontSize=16;fontColor=#ffffff;align=left;spacing=15;" vertex="1" parent="LIomclLp-HoN8wm7b3Z_-1">
+          <mxGeometry y="110" width="850" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LIomclLp-HoN8wm7b3Z_-5" value="Home" style="fillColor=none;strokeColor=none;fontSize=14;fontColor=#ffffff;align=center;" vertex="1" parent="LIomclLp-HoN8wm7b3Z_-4">
+          <mxGeometry width="70" height="40" relative="1" as="geometry">
+            <mxPoint x="70" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LIomclLp-HoN8wm7b3Z_-6" value="Link" style="fillColor=none;strokeColor=none;fontSize=14;fontColor=#9A9DA0;align=center;" vertex="1" parent="LIomclLp-HoN8wm7b3Z_-4">
+          <mxGeometry width="70" height="40" relative="1" as="geometry">
+            <mxPoint x="140" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LIomclLp-HoN8wm7b3Z_-14" value="Link" style="fillColor=none;strokeColor=none;fontSize=14;fontColor=#9A9DA0;align=center;" vertex="1" parent="LIomclLp-HoN8wm7b3Z_-4">
+          <mxGeometry x="220" y="10" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LIomclLp-HoN8wm7b3Z_-15" value="Link" style="fillColor=none;strokeColor=none;fontSize=14;fontColor=#9A9DA0;align=center;" vertex="1" parent="LIomclLp-HoN8wm7b3Z_-4">
+          <mxGeometry x="310" y="10" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LIomclLp-HoN8wm7b3Z_-12" value="Carousel of relevant pictures" style="html=1;shadow=0;dashed=0;strokeColor=none;strokeWidth=1;fillColor=#777777;fontColor=#555555;whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=0;fontSize=40;" vertex="1" parent="LIomclLp-HoN8wm7b3Z_-1">
+          <mxGeometry y="180" width="850" height="300" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
