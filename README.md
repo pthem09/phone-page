@@ -11,6 +11,7 @@ User types:
 - **Granite** wants the most durable phone that is easiest to repair.
 - **Titan** earns a comission from selling phones.
 
+```
 AS A <User_Type>     (Who?)
 I WANT TO <Action>   (What?)
 SO THAT <Goal>       (Why?)
