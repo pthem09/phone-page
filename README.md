@@ -6,10 +6,10 @@ Hosting link: https://pthem09.github.io/phone-page/
 
 User types:
 
-**Scrooge** is budget-conscious and wants the best deal.
-**Luxor** wants the snazziest phone with the newest cool features.
-**Granite** wants the most durable phone that is easiest to repair.
-**Titan** earns a comission from selling phones.
+-**Scrooge** is budget-conscious and wants the best deal.
+-**Luxor** wants the snazziest phone with the newest cool features.
+-**Granite** wants the most durable phone that is easiest to repair.
+-**Titan** earns a comission from selling phones.
 
 AS A <User_Type>     (Who?)
 I WANT TO <Action>   (What?)
