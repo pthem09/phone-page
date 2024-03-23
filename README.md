@@ -31,4 +31,5 @@ SO THAT I can buy the most durable phone.
 AS Titan
 I WANT TO see a list of commissions for each phone
 SO THAT I can maximize my profits in reselling.
+```
 
